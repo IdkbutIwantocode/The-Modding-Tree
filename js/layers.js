@@ -36,6 +36,12 @@ addLayer("p", {
             description: "triple your double robux gain.",
             cost: new Decimal(5),
         },
+
+        13: {
+            title: " MOREE1!11!",
+            description: "DOUBLE your TRIPLE robux gain.",
+            cost: new Decimal(10),
+        },
     },
 
 })
