@@ -31,5 +31,12 @@ addLayer("p", {
             cost: new Decimal(1),
         },
     },
+   
+    11: {
+        title: " even more!",
+        description: "triple your double robux gain.",
+        cost: new Decimal(1),
+    },
+
 })
 
