@@ -26,7 +26,9 @@ addLayer("p", {
     ],
     layerShown(){return true},    upgrades: {
         11: {
-
+            title: "more!",
+            description: "Double your robux gain.",
+            cost: new Decimal(1),
         },
     },
 })
