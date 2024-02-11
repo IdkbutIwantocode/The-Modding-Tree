@@ -78,3 +78,5 @@ function maxTickLength() {
 function fixOldSave(oldVersion){
 }
 if (hasUpgrade('p', 11)) gain = gain.times(7)
+
+if (hasUpgrade('p', 12)) gain = gain.times(3)
