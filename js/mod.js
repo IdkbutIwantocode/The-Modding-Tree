@@ -77,6 +77,11 @@ function maxTickLength() {
 // you can cap their current resources with this.
 function fixOldSave(oldVersion){
 }
-if (hasUpgrade('p', 11)) gain = gain.times(7)
+
+if (hasUpgrade('p', 11)) gain = gain.times(2)
 
 if (hasUpgrade('p', 12)) gain = gain.times(3)
+
+if (hasUpgrade('p', 13)) gain = gain.times(6)
+
+if (hasUpgrade('p', 14)) gain = gain.times(8)

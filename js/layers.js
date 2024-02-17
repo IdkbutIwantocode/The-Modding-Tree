@@ -42,6 +42,18 @@ addLayer("p", {
             description: "DOUBLE your TRIPLE robux gain.",
             cost: new Decimal(10),
         },
+
+        upgrades: {
+            14: {
+                description: "Double double double",
+                cost: new Decimal(50),
+                etc
+            },
+            etc
+        }
+
+
+
     },
 
 })
