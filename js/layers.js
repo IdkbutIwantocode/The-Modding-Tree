@@ -43,16 +43,21 @@ addLayer("p", {
             cost: new Decimal(10),
         },
 
-        upgrades: {
+    
             14: {
                 description: "Double double double",
                 cost: new Decimal(50),
                 etc
             },
-            etc
-        }
 
+            15: {
+                description: "x???",
+                cost: new Decimal(250),
+                etc
+            },
+            
 
+    
 
     },
 
