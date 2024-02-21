@@ -44,10 +44,10 @@ addLayer("p", {
         },
 
     
-            14: {
+        14: {  title: "idk",
                 description: "Double double double",
                 cost: new Decimal(50),
-                etc
+
             },
 
         
