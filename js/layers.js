@@ -50,11 +50,7 @@ addLayer("p", {
                 etc
             },
 
-            15: {
-                description: "x???",
-                cost: new Decimal(250),
-                etc
-            },
+        
             
 
     
